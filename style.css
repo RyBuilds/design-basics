@@ -147,6 +147,11 @@ img {
 }
 
 /* CHAIRS */
+.chair {
+  box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.07);
+  /* box-shadow: horizontal offset, vertical offset, blur, spread radius, colour; */
+}
+
 .chair-box {
   padding: 24px;
 }
